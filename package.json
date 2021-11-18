@@ -1,0 +1,22 @@
+{
+  "name": "discord-pb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netosilveira/discord-pb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netosilveira/discord-pb/issues"
+  },
+  "homepage": "https://github.com/netosilveira/discord-pb#readme",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  }
+}
